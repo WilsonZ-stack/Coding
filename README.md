@@ -1,0 +1,54 @@
+ <html>
+	<head>
+		<title> Practice 1 </title>
+	</head>
+	<body>
+	<!-- Wilson Zhou -->
+	<style type="text/css">
+	div {
+	width: 1000px;
+	padding: 20px;
+	border: 5px solid green; 
+	margin: 0px;
+	background-color: #5fde8a;
+	}
+	
+	</style>
+	<font face="Verdana">
+	<body background="BACKGROUND.jpg">
+	
+	<div style="position:fixed;left:350px;">
+	<marquee style=font-size:50pt;"scrollamount="10" direction="right"
+	behavior="alternate"><b>Wilson's E-Portfolio</b></marquee>	
+	</div>
+	<font face="Arial Black">
+	<div style="position:fixed;left:80px;top:200px;width:300px;height:100px;">
+	<img src="BLACKLIVESMATTER.jpg" width="260" height="280"
+	style="position:fixed;top:200px;right:1200px;">
+	<head><font size="+2"> Black Lives Matter </font><head>
+	<p> This is my Black lives matter poster made on powerpoint. </p>
+	</div>
+	
+	<div style="position:fixed;left:900px;top:200px;width:300px;height:60px;">
+	<img src="VALENTINES.jpg" width="350" height="250"
+	style="position:fixed;top:200px;right:300px;">
+	<head><font size="+2.5">  This is my Valentine's Day Card. </font><head>
+	</div>
+	
+	<div style="position:fixed;left:200px;top:600px;width:300px;height:200px;">
+	<img src="KINGKONGPOSTER.jpg" width="400" height="250"
+	style="position:fixed;top:600;right:950px;">
+	<head><font size="+3"> King Kong Poster </font><head>
+	<p> This is my king kong poster with Donkeykong and king kong in it. </p>
+	</div>
+	
+	<div style="position:fixed;left:1050px;top:550px;width:300px;height:200px;">
+	<a href="https://www.boosterjuice.com/find-a-location/">Booster Juice Directions</a>
+	<img src="smoothie.jpg" width="350" height="250"
+	style="position:fixed;top:600;right:130px;">
+	<head><font size="+3"> Booster Juice </font><head>
+	<p> This is my favourite place to get smoothies. </p>
+		</div>
+		</body>
+</html>
+	
